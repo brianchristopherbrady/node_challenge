@@ -1,5 +1,6 @@
 # node_challenge
 
-install node modules
+install node modules:
+
   $npm install
   
