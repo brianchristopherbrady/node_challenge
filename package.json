@@ -1,0 +1,8 @@
+{
+  "name": "node_challenge",
+  "version": "1.0.0",
+  "description": "I would love a job one day. Love, Brian Brady",
+  "dependencies": {
+    "express": "4.10.2"
+  }
+}
